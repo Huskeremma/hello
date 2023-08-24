@@ -10,7 +10,10 @@
 
 int main(int argc, char **argv){
 
-    printf("Emma Walter");
+    printf("Emma Walter!");
+
+    printf("I'm a computer engineering major");
+
 
 
     return 0;
