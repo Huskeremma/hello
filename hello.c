@@ -11,10 +11,10 @@
 int main(int argc, char **argv){
 
 
-    printf("Emma Walter!!!!");
+    printf("Emma Walter!!!!\n");
 
 
-    printf("I'm a computer engineering major!!!");
+    printf("I'm a computer engineering major!!!\n");
 
 
     return 0;
